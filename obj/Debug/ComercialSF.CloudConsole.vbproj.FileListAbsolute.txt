@@ -1,0 +1,2 @@
+D:\Datos\www\neodata.code\ComercialSF.CloudConsole\obj\Debug\ComercialSF.CloudConsole.vbproj.AssemblyReference.cache
+D:\Datos\www\neodata.code\ComercialSF.CloudConsole\obj\Debug\ComercialSF.CloudConsole.vbproj.GenerateResource.cache
