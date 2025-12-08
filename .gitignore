@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ComercialSF.CloudConsole/FileContentIndex
+/.vs/ComercialSF.CloudConsole/v18/.suo
+*.json
+/application/logs
