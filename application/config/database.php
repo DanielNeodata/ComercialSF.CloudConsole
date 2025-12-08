@@ -75,7 +75,7 @@ $active_group = 'neo_comercialsf';
 $data=getServerDetails();
 switch($data["host"]) {
     case "localhost":
-	   $hostname="localhost";
+	   $hostname="DESARROLLO\SQLEXPRESS";
 	   $username="sa";
 	   $password="08Z5il37";
 	   $database="neo_comercialsf";
