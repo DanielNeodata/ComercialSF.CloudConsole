@@ -189,6 +189,7 @@
     <Content Include="application\models\mod_backend\Clients.php" />
     <Content Include="application\models\mod_backend\Users.php" />
     <Content Include="application\models\mod_email\Emailing.php" />
+    <Content Include="application\models\mod_post\Oxxo.php" />
     <Content Include="application\models\mod_post\Cpech.php" />
     <Content Include="application\models\mod_post\Ftp_upload.php" />
     <Content Include="application\models\mod_post\Megaarchivoshqb.php" />
