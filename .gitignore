@@ -6,3 +6,7 @@
 /.vs/ComercialSF.CloudConsole/v18/.suo
 *.json
 /application/logs
+*.v2
+/.vs/ComercialSF.CloudConsole/v18/DocumentLayout.json
+/.vs/ComercialSF.CloudConsole/v18/fileList.bin
+/obj/Debug/ComercialSF.CloudConsole.vbproj.FileListAbsolute.txt
