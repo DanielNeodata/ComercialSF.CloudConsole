@@ -105,6 +105,7 @@ $lang['p_unc_target'] = "Directorio destino";
 $lang['p_mm_alive'] = "Tiempo mínimo creación de archivo";
 $lang['p_pdf'] = "PDFs";
 $lang['p_tiff'] = "TIFFs";
+$lang['p_jpeg'] = "JPGs";
 $lang['p_single_page'] = "Otros archivo de página única";
 $lang['p_date_from_contract'] = "Inicio del contrato";
 $lang['p_date_to_contract'] = "Fin del contrato";

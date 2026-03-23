@@ -27,6 +27,7 @@ $html.=getInput($parameters,array("col"=>"col-md-1 text-center","custom"=>"disab
 $html.=getInput($parameters,array("col"=>"col-md-1 text-center","custom"=>"disabled checked","name"=>"mod_pages","type"=>"checkbox","class"=>"form-control text dbase text-center"));
 $html.=getInput($parameters,array("col"=>"col-md-1 text-center","name"=>"pdf","type"=>"checkbox","class"=>"form-control text dbase text-center"));
 $html.=getInput($parameters,array("col"=>"col-md-1 text-center","name"=>"tiff","type"=>"checkbox","class"=>"form-control text dbase text-center"));
+$html.=getInput($parameters,array("col"=>"col-md-1 text-center","name"=>"jpeg","type"=>"checkbox","class"=>"form-control text dbase text-center"));
 $html.="</div>";
 
 $html.="<div class='form-row shadow p-1 pb-2 mt-2'>";
