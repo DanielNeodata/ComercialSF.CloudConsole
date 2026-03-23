@@ -155,6 +155,7 @@ class Profiles extends MY_Model {
                     'mm_alive' => $values["mm_alive"],
                     'pdf' => $values["pdf"],
                     'tiff' => $values["tiff"],
+                    'jpeg' => $values["jpeg"],
                     'single_page' => $values["single_page"],
                     'time_from' => $values["time_from"],
                     'time_to' => $values["time_to"],
